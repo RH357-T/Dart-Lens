@@ -1,0 +1,7 @@
+streamlit>=1.50
+pandas>=2.2
+numpy>=2.0
+pyarrow>=18
+plotly>=5.20
+requests>=2.31
+finance-datareader>=0.9.90
